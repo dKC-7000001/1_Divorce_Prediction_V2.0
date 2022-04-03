@@ -5,7 +5,7 @@ import numpy as np
 import time
 
 def load_model():
-    with open('Divorce_Prediction_V2.0/saved_steps_v2.pkl', 'rb') as file:
+    with open('./saved_steps_v2.pkl', 'rb') as file:
         data = pickle.load(file)
 
     return data
