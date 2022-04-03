@@ -1,7 +1,7 @@
 # Divorce_Prediction_V2.0
 #### A new upgraded divorce prediction with less no. of question asked and even with high accuracy.
 
-##Data Understanding:-
+### Data Understanding:-
 
 For data understanding please refer to the divorce_prediction V1.0
 
